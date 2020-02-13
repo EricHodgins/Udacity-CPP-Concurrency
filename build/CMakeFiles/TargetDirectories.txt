@@ -1,0 +1,3 @@
+/home/eric/C++/Udacity/L4/C3/Excercise/Udacity-CPP-Concurrency/build/CMakeFiles/rebuild_cache.dir
+/home/eric/C++/Udacity/L4/C3/Excercise/Udacity-CPP-Concurrency/build/CMakeFiles/traffic_simulation.dir
+/home/eric/C++/Udacity/L4/C3/Excercise/Udacity-CPP-Concurrency/build/CMakeFiles/edit_cache.dir
